@@ -1,4 +1,4 @@
-# CSS-loading-spinner-with-a-semi-transparent-background
+## CSS-loading-spinner-with-a-semi-transparent-background
 
 ```
 #loading-spin {
