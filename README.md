@@ -1,3 +1,6 @@
+# CSS-loading-spinner-with-a-semi-transparent-background
+
+```
 #loading-spin {
     position:fixed;
     width:100%;
@@ -30,7 +33,8 @@
     -webkit-animation: spin .8s linear infinite;
     animation: spin .8s linear infinite;
 }
+```
 
-/* Place the below div anywhere in the html page in your aplication and show or hide it based on your need/application */
+#### Place the below div anywhere in the html page in your aplication and show or hide it based on your need/application language.
 
-<div id="loader"></div>
+`<div id="loader"></div>`
