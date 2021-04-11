@@ -37,4 +37,4 @@
 
 #### Place the below div anywhere in the html page in your aplication and show or hide it based on your need/application language.
 
-`<div id="loader"></div>`
+`<div id="loading-spin"></div>`
